@@ -148,7 +148,7 @@ function checkInputs() {
   }
 }
 
-//modal
+// ///////////////MODAL//////////////
 
 
 inputForm.addEventListener("submit", function (event) {
